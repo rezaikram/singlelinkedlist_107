@@ -183,7 +183,8 @@ int main() {
 		{
 			cout << "Terjadi Kesalahan" << endl;
 		}
-
+	} while (pilihan != 5);
+}
 
 
 
